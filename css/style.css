@@ -1,0 +1,116 @@
+/*Add CSS styling below*/
+
+body {
+	font-family: verdana;
+	padding: 0px;
+	border: 0px;
+	margin: 2px;
+}
+
+header {
+	text-align: center;
+	height: 100px;
+	width: 800px;
+	background: #009999;
+	color: white;
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+
+}
+ h1 {
+ 	margin: 0px;
+ 	font-size: 32px;
+ }
+
+#h1 {
+	color: white;
+	background: #009999;
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	line-height: 1em;
+	 
+}
+/*navigation box*/
+nav {
+	float: left;
+	height: 260px;
+	width: 150px;
+	background: #FFD073;
+	margin-right: 20px;
+	text-align: center; 
+	line-height: 3.5em;
+	font-size: 14px;
+	border: solid black 1px;
+}
+/*changes color to links in nav*/
+a {
+	color: #A64B00;
+}
+/*section styling*/
+section {
+	background: #006363;
+	width: 800px;
+	margin: 0px;
+	padding-bottom: 1em;
+	padding-top: 10px;	
+}
+/*heading of the page styling*/
+h2 {
+	color: #FFD073;
+	margin: 0px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	font-size: 20px;
+}
+/*paragraphs styling*/
+p {
+	color: white;
+	font-size: 14px;
+	line-height: 16px;
+	padding: 10px;
+	margin: 0px;
+}
+/*all the pictures and figures*/
+aside {
+	float: right;
+	clear: right;
+	margin: 0px;
+	padding:0px 10px;
+}
+
+figure {
+	background: #006363;
+	height: 260px;
+	width: 150px;
+	color:#FFD073; 
+	margin: 10px 5px;
+	font-size: 12px;
+	text-align: center;
+	padding: 0px 0px;
+	float: right;
+	clear: both;
+}
+/*2nd id="figure" styling*/
+#fig {
+	align-content: center;
+	width: 800px;
+	height: 200px;
+	padding:5px 0px;
+	margin: 0px;
+	float: left;
+	
+
+}
+/*footer box*/
+footer {
+	text-align: center;
+	background: #FFD073;
+	height: 60px;
+	width: 800px;
+	color: #A64B00;
+	font-size: 12px;
+	margin: 0px;
+	clear: both;
+}
